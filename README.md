@@ -1,1 +1,82 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode
+
+A collection of my **LeetCode solutions** created while practicing problem solving, Data Structures & Algorithms, and competitive programming.
+
+This repository contains the problems I solve on LeetCode along with their solutions. The solutions may be written in different programming languages depending on the problem and the concept being practiced.
+
+---
+
+## 🎯 Purpose
+
+This repository is mainly for:
+
+- Practicing Data Structures & Algorithms
+- Improving problem-solving skills
+- Preparing for coding interviews
+- Learning different approaches to solving problems
+- Tracking my LeetCode practice and progress
+- Revising previously solved problems
+
+---
+
+## 🧠 Topics
+
+Problems in this repository may cover topics such as:
+
+- Arrays
+- Strings
+- Linked Lists
+- Stacks
+- Queues
+- Hashing
+- Sorting
+- Searching
+- Recursion
+- Trees
+- Graphs
+- Dynamic Programming
+- Greedy Algorithms
+- Backtracking
+- Bit Manipulation
+- Mathematics
+- And other DSA concepts
+
+---
+
+## 💻 Languages
+
+I may use different programming languages for solving problems, including:
+
+- C
+- C++
+- Java
+- Python
+- JavaScript
+
+---
+
+## 📈 Progress
+
+This repository will be continuously updated as I solve more LeetCode problems.
+
+The focus is not only on getting accepted solutions, but also on understanding the logic, improving efficiency, and learning different problem-solving patterns.
+
+---
+
+## 🔗 LeetCode
+
+My LeetCode profile:
+
+https://leetcode.com/
+
+---
+
+## 👨‍💻 Author
+
+**Harshrajsinh Zala**
+
+GitHub: https://github.com/harshraj-31
+
+---
+
+> **Practice consistently. Understand the logic. Improve with every problem.**
