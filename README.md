@@ -80,3 +80,15 @@ GitHub: https://github.com/harshraj-31
 ---
 
 > **Practice consistently. Understand the logic. Improve with every problem.**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harshraj-31/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Sorting
+|  |
+| ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harshraj-31/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+<!---LeetCode Topics End-->
