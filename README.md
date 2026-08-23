@@ -67,7 +67,7 @@ The focus is not only on getting accepted solutions, but also on understanding t
 
 My LeetCode profile:
 
-https://leetcode.com/
+[https://leetcode.com/](https://leetcode.com/u/harshraj-31/)
 
 ---
 
