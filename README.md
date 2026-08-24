@@ -86,6 +86,7 @@ GitHub: https://github.com/harshraj-31
 ## Array
 |  |
 | ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshraj-31/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harshraj-31/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Sorting
 |  |
