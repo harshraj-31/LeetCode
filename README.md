@@ -86,6 +86,7 @@ GitHub: https://github.com/harshraj-31
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/harshraj-31/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/harshraj-31/LeetCode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshraj-31/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harshraj-31/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -100,6 +101,7 @@ GitHub: https://github.com/harshraj-31
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/harshraj-31/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [2485-find-the-pivot-integer](https://github.com/harshraj-31/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Greedy
 |  |
