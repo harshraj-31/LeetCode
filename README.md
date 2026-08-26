@@ -87,6 +87,7 @@ GitHub: https://github.com/harshraj-31
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/harshraj-31/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/harshraj-31/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/harshraj-31/LeetCode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshraj-31/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harshraj-31/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -106,6 +107,7 @@ GitHub: https://github.com/harshraj-31
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/harshraj-31/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/harshraj-31/LeetCode/tree/master/0605-can-place-flowers) |
 ## Two Pointers
 |  |
@@ -117,4 +119,8 @@ GitHub: https://github.com/harshraj-31
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/harshraj-31/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshraj-31/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/harshraj-31/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
