@@ -93,10 +93,12 @@ GitHub: https://github.com/harshraj-31
 | [0605-can-place-flowers](https://github.com/harshraj-31/LeetCode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshraj-31/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harshraj-31/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/harshraj-31/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harshraj-31/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/harshraj-31/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +123,7 @@ GitHub: https://github.com/harshraj-31
 | [0345-reverse-vowels-of-a-string](https://github.com/harshraj-31/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/harshraj-31/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/harshraj-31/LeetCode/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/harshraj-31/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -136,4 +139,8 @@ GitHub: https://github.com/harshraj-31
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/harshraj-31/LeetCode/tree/master/0392-is-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/harshraj-31/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
