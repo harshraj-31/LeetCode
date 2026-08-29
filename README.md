@@ -92,6 +92,7 @@ GitHub: https://github.com/harshraj-31
 | [0334-increasing-triplet-subsequence](https://github.com/harshraj-31/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/harshraj-31/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/harshraj-31/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/harshraj-31/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshraj-31/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harshraj-31/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/harshraj-31/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -108,6 +109,7 @@ GitHub: https://github.com/harshraj-31
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/harshraj-31/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/harshraj-31/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2485-find-the-pivot-integer](https://github.com/harshraj-31/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Greedy
 |  |
@@ -149,5 +151,10 @@ GitHub: https://github.com/harshraj-31
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/harshraj-31/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/harshraj-31/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harshraj-31/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/harshraj-31/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
