@@ -97,6 +97,7 @@ GitHub: https://github.com/harshraj-31
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshraj-31/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harshraj-31/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/harshraj-31/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/harshraj-31/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +112,7 @@ GitHub: https://github.com/harshraj-31
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/harshraj-31/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshraj-31/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/harshraj-31/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/harshraj-31/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Greedy
 |  |
