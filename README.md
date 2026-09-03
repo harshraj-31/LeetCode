@@ -99,6 +99,7 @@ GitHub: https://github.com/harshraj-31
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harshraj-31/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/harshraj-31/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/harshraj-31/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/harshraj-31/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -153,6 +154,7 @@ GitHub: https://github.com/harshraj-31
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/harshraj-31/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/harshraj-31/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
