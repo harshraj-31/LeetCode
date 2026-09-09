@@ -202,6 +202,7 @@ GitHub: https://github.com/harshraj-31
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/harshraj-31/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/harshraj-31/LeetCode/tree/master/0394-decode-string) |
 ## Design
 |  |
@@ -219,5 +220,6 @@ GitHub: https://github.com/harshraj-31
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/harshraj-31/LeetCode/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshraj-31/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
