@@ -107,6 +107,7 @@ GitHub: https://github.com/harshraj-31
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/harshraj-31/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/harshraj-31/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/harshraj-31/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/harshraj-31/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +115,7 @@ GitHub: https://github.com/harshraj-31
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harshraj-31/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/harshraj-31/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/harshraj-31/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/harshraj-31/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +135,7 @@ GitHub: https://github.com/harshraj-31
 | [0334-increasing-triplet-subsequence](https://github.com/harshraj-31/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/harshraj-31/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/harshraj-31/LeetCode/tree/master/0649-dota2-senate) |
+| [2542-maximum-subsequence-score](https://github.com/harshraj-31/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -337,6 +340,7 @@ GitHub: https://github.com/harshraj-31
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshraj-31/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/harshraj-31/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/harshraj-31/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
 | ------- |
