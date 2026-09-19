@@ -191,6 +191,7 @@ GitHub: https://github.com/harshraj-31
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/harshraj-31/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshraj-31/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
 |  |
@@ -353,4 +354,8 @@ GitHub: https://github.com/harshraj-31
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/harshraj-31/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/harshraj-31/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
