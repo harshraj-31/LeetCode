@@ -88,6 +88,7 @@ GitHub: https://github.com/harshraj-31
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshraj-31/LeetCode/tree/master/0011-container-with-most-water) |
 | [0162-find-peak-element](https://github.com/harshraj-31/LeetCode/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/harshraj-31/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshraj-31/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/harshraj-31/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/harshraj-31/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -178,6 +179,7 @@ GitHub: https://github.com/harshraj-31
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/harshraj-31/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/harshraj-31/LeetCode/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/harshraj-31/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/harshraj-31/LeetCode/tree/master/1137-n-th-tribonacci-number) |
