@@ -170,6 +170,7 @@ GitHub: https://github.com/harshraj-31
 | [0399-evaluate-division](https://github.com/harshraj-31/LeetCode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/harshraj-31/LeetCode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/harshraj-31/LeetCode/tree/master/0649-dota2-senate) |
+| [1143-longest-common-subsequence](https://github.com/harshraj-31/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harshraj-31/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/harshraj-31/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/harshraj-31/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -186,6 +187,7 @@ GitHub: https://github.com/harshraj-31
 | [0746-min-cost-climbing-stairs](https://github.com/harshraj-31/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/harshraj-31/LeetCode/tree/master/0790-domino-and-tromino-tiling) |
 | [1137-n-th-tribonacci-number](https://github.com/harshraj-31/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/harshraj-31/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/harshraj-31/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshraj-31/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -391,4 +393,8 @@ GitHub: https://github.com/harshraj-31
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/harshraj-31/LeetCode/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/harshraj-31/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
