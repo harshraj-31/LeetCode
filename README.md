@@ -168,6 +168,7 @@ GitHub: https://github.com/harshraj-31
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshraj-31/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/harshraj-31/LeetCode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/harshraj-31/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/harshraj-31/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshraj-31/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/harshraj-31/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/harshraj-31/LeetCode/tree/master/0394-decode-string) |
@@ -201,6 +202,7 @@ GitHub: https://github.com/harshraj-31
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshraj-31/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/harshraj-31/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/harshraj-31/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/harshraj-31/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/harshraj-31/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -253,6 +255,7 @@ GitHub: https://github.com/harshraj-31
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/harshraj-31/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0933-number-of-recent-calls](https://github.com/harshraj-31/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/harshraj-31/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
@@ -409,4 +412,8 @@ GitHub: https://github.com/harshraj-31
 | ------- |
 | [0136-single-number](https://github.com/harshraj-31/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/harshraj-31/LeetCode/tree/master/0338-counting-bits) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/harshraj-31/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
